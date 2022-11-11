@@ -1,0 +1,23 @@
+body{
+    background-color: cyan;
+}
+h1{
+    text-align: center;
+}
+
+h5{
+    color: red;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    width: 30%;
+}
+th,td{
+    padding: 10px;
+}
+td{
+    text-align: center;
+}
